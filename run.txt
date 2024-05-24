@@ -1,1 +1,3 @@
-C:\Users\RA\AppData\Roaming\Python\Python311\Scripts\streamlit.exe run app.py
+C:\Users\RA\AppData\Roaming\Python\Python311\Scripts\streamlit.exe run app.py  
+
+ python -m streamlit run app.py
